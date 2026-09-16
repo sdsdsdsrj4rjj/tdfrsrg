@@ -1,0 +1,19 @@
+shaders = 1
+
+shader0 = "shaders/deep_fried_rg34xx.glsl"
+filter_linear0 = false
+
+FRY = 1.00
+CONTRAST = 1.40
+SATURATION = 1.65
+SHARPNESS = 0.40
+HEAT = 0.22
+CRUNCH = 0.18
+ABERRATION = 0.002
+VIGNETTE = 0.18
+GRAIN = 0.035
+
+PIXEL_NOISE = 0.35
+BLOCK_ARTIFACTS = 0.35
+BLOCK_SIZE = 48.0
+BLOCK_COLOR = 0.18
